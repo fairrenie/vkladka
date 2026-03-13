@@ -4,7 +4,7 @@ html, body {
   font-family: 'Open Sans', sans-serif;
   height: 100%;
   margin: 0;
-  background-color: navy;
+  background-color:white;
 }
 .box {
     width: 80%;
@@ -112,7 +112,7 @@ html, body {
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://github.com/fairrenie/vkladka/blob/main/T0n8ua5bL4C3eUd4U6aFi-1I20P5-KC-p64dbNIP0ByemjlhRm85MnEWDrMnN4M85PyQVU-6y-X18InF8PTBrbji.jpg");
+ background-image: url("https://raw.githubusercontent.com/fairrenie/vkladka/refs/heads/main/T0n8ua5bL4C3eUd4U6aFi-1I20P5-KC-p64dbNIP0ByemjlhRm85MnEWDrMnN4M85PyQVU-6y-X18InF8PTBrbji.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -125,7 +125,7 @@ html, body {
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://github.com/fairrenie/vkladka/blob/main/_jrBmWGoYZrUHNk65pJClIoYfagDQATFA6xDwRnWZ4iAlzh6WB9-haEtyLcGpOD7XA2m7zMblANFk08o9nxMSTBE.jpg");
+ background-image: url("https://raw.githubusercontent.com/fairrenie/vkladka/refs/heads/main/_jrBmWGoYZrUHNk65pJClIoYfagDQATFA6xDwRnWZ4iAlzh6WB9-haEtyLcGpOD7XA2m7zMblANFk08o9nxMSTBE.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -138,7 +138,7 @@ html, body {
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://github.com/fairrenie/vkladka/blob/main/GFv7wd9LHgdhZWpJVPyykfA51G0ZyrGTgaIZZudfN0Rz6sCpWk5E4X-UyhK0jRg2H2DIqJDei7QYIGju4VI8EW6m.jpg");
+ background-image: url("https://raw.githubusercontent.com/fairrenie/vkladka/refs/heads/main/GFv7wd9LHgdhZWpJVPyykfA51G0ZyrGTgaIZZudfN0Rz6sCpWk5E4X-UyhK0jRg2H2DIqJDei7QYIGju4VI8EW6m.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -146,7 +146,7 @@ html, body {
  background-repeat: no-repeat;
  background-position: center center;
 }
-#landing .line-break {background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
+#landing .line-break {background: linear-gradient(white,gray);
  width: 100%;
  margin: 0 auto;
 }@media screen and (max-width: 959px) and (min-width: 768px) {
