@@ -9,6 +9,8 @@ html, body {
 .box {
     width: 80%;
     position: absolute;
+	top:50%;
+	left:10%;
     margin-top: -450px;
   overflow: auto;
 }
@@ -74,6 +76,9 @@ html, body {
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
 }
+.f1 {color:navy;}
+.s1 {color:navy;}
+.t1 {color:navy;}
 #landing .title {
  background: white;
  padding: 60px;
